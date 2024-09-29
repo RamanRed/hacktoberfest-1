@@ -19,7 +19,7 @@ Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RamanRed/turtle-racing-game.git
+   git clone https://github.com/RamanRed/hacktoberfest-1.git
 Navigate to the project directory:
 
 bash
