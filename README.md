@@ -35,7 +35,7 @@ This project allows users to bet on turtles as they race across the screen. Play
 2. **Run the game**:
 
    ```bash
-   python turtle_racing_game.py
+   python Turtle.py
    ```
 
 ---
