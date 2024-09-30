@@ -32,13 +32,7 @@ This project allows users to bet on turtles as they race across the screen. Play
    git clone https://github.com/RamanRed/hacktoberfest-1.git
    ```
 
-2. **Navigate to the project directory**:
-
-   ```bash
-   cd turtle-racing-game
-   ```
-
-3. **Run the game**:
+2. **Run the game**:
 
    ```bash
    python turtle_racing_game.py
